@@ -3,21 +3,6 @@
 #include <String.h>
 #include <SPI.h>
  
-/**
- * Torque for Android Arduino sample program by Ian Hawkins <ian@torque-bhp.com> http://torque-bhp.com/
- * You will require Torque Pro 1.8.82 or newer
- * 
- * Setup the bluetooth device as an OBD2 adapter in Torque.  Torque will automatically recognise the Arduino and will
- * import sensors automatically based on the configuration settings below.
- * 
- * This code is released under the LGPL v2 
- * 
- * This has been tested on the Arduino UNO board
- * 
- * Connect pins 2 and 3 to your bluetooth device's rx and tx pins (2 to txd on bluetooth device, 3 to rxd)
- * 
- * This code allows you to gather sensors from the arduino to display in the app. It can be extended to whatever you want.
- */
  
 // Various constants.
 const String ATE = "ATE"; // Echo off/on
