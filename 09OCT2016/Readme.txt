@@ -1,1 +1,1 @@
-This is just some early schematic capture and layout work
+This is just some early schematic capture and layout work. I also added the arduino code that was written for the protoype. In the protoype I used a different thermocouple amplifer for EGT and the onboard ADC for the CHT. In the final version, I'll do both using the ADS1120.
