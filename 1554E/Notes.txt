@@ -1,0 +1,1 @@
+This folder contains the files for the first batch of boards ordered. They fit into a Hammond 1554E enclosure.
